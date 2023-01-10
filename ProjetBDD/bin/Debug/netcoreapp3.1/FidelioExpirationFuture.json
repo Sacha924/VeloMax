@@ -1,0 +1,1 @@
+[{"numProgramme":"1","idIndividu":"IN2","nom":"de mierre","adresseIndividu":"27 rue du loiret, Paris 75019","prenom":"tristan","telephone":"4544812165","courriel":"tristan.demierre@hotmail.fr\r","dateAdhesion":"2021-06-20\r","description":"Fidelio","cout":15,"duree":1,"rabais":5,"DATEDIFF(NOW(), dateAdhesion)":331}]

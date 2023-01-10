@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFournisseur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fournisseur>
+    <Siret>201</Siret>
+    <nomEntreprise>VIGO</nomEntreprise>
+    <contact>102340594</contact>
+    <adresse>11 rue des pipoux 53000</adresse>
+    <libelle>1</libelle>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>202</Siret>
+    <nomEntreprise>ADES</nomEntreprise>
+    <contact>623458834</contact>
+    <adresse>45 avenue charles de gaulle 750019</adresse>
+    <libelle>1</libelle>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>203</Siret>
+    <nomEntreprise>LUNO</nomEntreprise>
+    <contact>723116733</contact>
+    <adresse>3 rue de mantin 37000</adresse>
+    <libelle>2</libelle>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>204</Siret>
+    <nomEntreprise>CHAP</nomEntreprise>
+    <contact>134667756</contact>
+    <adresse>4 avenue de la librairie 92600</adresse>
+    <libelle>3</libelle>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>205</Siret>
+    <nomEntreprise>BIMA</nomEntreprise>
+    <contact>145653234</contact>
+    <adresse>7 rue du marchand 92270</adresse>
+    <libelle>4</libelle>
+  </Fournisseur>
+</ArrayOfFournisseur>
